@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Suite",
+  "description": "A comprehensive suite of AI tools powered by Google's Gemini API, featuring Chat, Image Generation, and Real-time Voice Interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
